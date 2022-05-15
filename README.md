@@ -1,7 +1,6 @@
 # pystats
 
 ## collection of machine learning and stats algorithms implemented in code for fun :)
-
 * **deep-learning** (in progress)
     * **layers**
         * linear (dense)
@@ -11,8 +10,7 @@
     * **optimizers**
         * adam
     * **loss**
-        * crossentropy, mse, ce + softmax
-    
+        * crossentropy, mse, ce + softmax  
 * **probability**
     * **discrete**
         * binomial, negative binomial
